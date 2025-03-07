@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hendrick Nkuba </h1>
 
-[![committers.top badge](https://user-badge.committers.top/angola/hendricknkuba.svg)](https://user-badge.committers.top/angola/hendricknkuba)
-
+<p align="center">[![committers.top badge](https://user-badge.committers.top/canada/hendricknkuba.svg)](https://user-badge.committers.top/canada/hendricknkuba)</p>
 
 <p>Highly motivated and professional with great passion for working with and getting accustomed to technology.</p>
 
