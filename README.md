@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hendrick Nkuba </h1>
 
-<a align="center"> [![committers.top badge](https://user-badge.committers.top/canada/hendricknkuba.svg)](https://user-badge.committers.top/canada/hendricknkuba) ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg) </a>
+<a align="center"> [![committers.top badge](https://user-badge.committers.top/canada/hendricknkuba.svg)](https://user-badge.committers.top/canada/hendricknkuba) ![Visitor Count](https://profile-counter.glitch.me/hendricknkuba/count.svg) </a>
 
 <p>Highly motivated and professional with great passion for working with and getting accustomed to technology.</p>
 
