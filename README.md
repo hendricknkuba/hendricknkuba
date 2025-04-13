@@ -1,55 +1,66 @@
-<h1 align="center">Hi 👋, I'm Hendrick Nkuba </h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E94B7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Hendrick+Nkuba;Full+Stack+Developer;Web+Development+Student;Linux+Enthusiast" alt="Typing SVG" />
+  </a>
+</h1>
 
-<a align="center"> [![committers.top badge](https://user-badge.committers.top/canada/hendricknkuba.svg)](https://user-badge.committers.top/canada/hendricknkuba) ![](https://komarev.com/ghpvc/?username=hendricknkuba&color=green) </a>
+<h3 align="center">Building digital solutions with clean code and modern technologies</h3>
 
-<p>Highly motivated and professional with great passion for working with and getting accustomed to technology.</p>
-
-<br>
-
-<img align="right" alt="Coding" width="400"  src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
-
-<br/>
-
-<h3 align="left">Languages and Tools:</h3>
-<br>
-
-<p align="left">
-    <!-- Laravel -->
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://api.iconify.design/logos-laravel.svg" alt="laravel" width="40" height="40"/>
-    </a>
-    <!-- Vue.js -->
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="40" height="40"/>
-    </a>
-    <!-- React -->
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
-    <!-- PHP -->
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-    </a>
-    <!-- JavaScript -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <!-- HTML -->
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
-    </a>
-    <!-- CSS -->
-    <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
-    </a>
-    <!-- TypeScript -->
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    </a>
-    <!-- Node.js -->
-    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
+<p align="center">
+  <a href="https://github.com/hendricknkuba?tab=repositories">
+    <img alt="total stars" src="https://custom-icon-badges.demolab.com/github/stars/hendricknkuba?color=2E94B7&style=for-the-badge&labelColor=1C5D76&logo=star"/>
+  </a>
+  <a href="https://github.com/hendricknkuba?tab=followers">
+    <img alt="followers" src="https://custom-icon-badges.demolab.com/github/followers/hendricknkuba?color=2E94B7&labelColor=1C5D76&style=for-the-badge&logo=person-add&label=Follow"/>
+  </a>
+  <a href="https://committers.top/canada/hendricknkuba">
+    <img src="https://user-badge.committers.top/canada/hendricknkuba.svg" alt="Canadian Committers Rank" style="height: 28px;"/>
+  </a>
 </p>
 
+## 🚀 Technologies & Tools
 
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PhpStorm"/>
+</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hendricknkuba&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendricknkuba&layout=compact&langs_count=8&theme=onedark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hendricknkuba&theme=onedark" alt="GitHub Streak"/>
+</div>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:imhendrick16@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hendricknkuba">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://hendricknkuba.com">
+    <img src="https://img.shields.io/badge/Portfolio-2E94B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
